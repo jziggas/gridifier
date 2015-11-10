@@ -8,9 +8,8 @@ Visit the [gridifier.io](http://gridifier.io/) website for documentation.
 
 ### License
 
-Gridifier is dual licensed.(GPLv3/Commercial license)
+GPLv3
 
-Read [license](http://gridifier.io/license/) for details.
 
 ### Support
 
